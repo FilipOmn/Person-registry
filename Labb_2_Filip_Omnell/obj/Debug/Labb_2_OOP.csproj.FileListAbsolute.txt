@@ -1,0 +1,10 @@
+C:\Users\filip\Desktop\Labb_2_Filip_Omnell\bin\Debug\Labb_2_OOP.exe.config
+C:\Users\filip\Desktop\Labb_2_Filip_Omnell\bin\Debug\Labb_2_OOP.exe
+C:\Users\filip\Desktop\Labb_2_Filip_Omnell\bin\Debug\Labb_2_OOP.pdb
+C:\Users\filip\Desktop\Labb_2_Filip_Omnell\obj\Debug\Labb_2_OOP.csproj.AssemblyReference.cache
+C:\Users\filip\Desktop\Labb_2_Filip_Omnell\obj\Debug\Labb_2_OOP.Form1.resources
+C:\Users\filip\Desktop\Labb_2_Filip_Omnell\obj\Debug\Labb_2_OOP.Properties.Resources.resources
+C:\Users\filip\Desktop\Labb_2_Filip_Omnell\obj\Debug\Labb_2_OOP.csproj.GenerateResource.cache
+C:\Users\filip\Desktop\Labb_2_Filip_Omnell\obj\Debug\Labb_2_OOP.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\Labb_2_Filip_Omnell\obj\Debug\Labb_2_OOP.exe
+C:\Users\filip\Desktop\Labb_2_Filip_Omnell\obj\Debug\Labb_2_OOP.pdb
